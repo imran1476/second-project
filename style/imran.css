@@ -11,11 +11,11 @@ niv{
       justify-content:space-between;
       color:white;
     }
-    .logo{
+    niv.logo{
         font-size:18px;
         font-weight:bold;
     }
-    .at{
+   niv .at{
         
         color:white;
         margin-left:15px;
@@ -25,7 +25,7 @@ niv{
  
 text-align:center;
 padding:100px 20px;
-background-color:rgb(191, 151, 151);
+background-color:white;
 
 
     }
@@ -48,6 +48,9 @@ background-color:rgb(191, 151, 151);
    
      position: relative;
  }
+ .hd button:hover {
+      background-color: #2980b9;
+    }
  footer{
  
 background-color:aquamarine;
